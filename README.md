@@ -1,4 +1,4 @@
-# brandenxia.github.io
+# BrandenXia的个人网站 brandenxia.github.io
 做着玩的个人网站，不要抱任何希望，盲（肯）猜（定）会咕。  
 可能……有什么想法的时候会分享一下？也许有一些生活相关的？  
 目前计划：
